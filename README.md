@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @muniruelijah
-- 👀 I’m interested in medical research, data science and artificial intelligence 
-- 🌱 I’m currently learning data science for life sciences
+- 👀 I’m interested in biomedical research, data science and neuroscience 
+- 🌱 I’m currently learning bioinformatics 
 - 💞️ I’m looking to collaborate on data science that relates with healthcare and medicine 
 - 📫 How to reach me on LinkedIn https://www.linkedin.com/in/muniruelijah
 
